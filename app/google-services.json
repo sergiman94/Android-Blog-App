@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350335381502",
+    "firebase_url": "https://blogapp-ee69d.firebaseio.com",
+    "project_id": "blogapp-ee69d",
+    "storage_bucket": "blogapp-ee69d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350335381502:android:2982f7204205cdacdb9aaf",
+        "android_client_info": {
+          "package_name": "com.sergiomanrique.blogapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350335381502-kbsvgunndekgkn281uh5bl2bcbhnuuli.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0qrEWCZIsJ8M-m-UWxUV28LhZvAlvMXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350335381502-kbsvgunndekgkn281uh5bl2bcbhnuuli.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
