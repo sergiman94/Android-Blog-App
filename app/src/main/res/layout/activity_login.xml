@@ -60,12 +60,12 @@
         app:layout_constraintTop_toTopOf="@+id/guideline2" />
 
     <Button
-        android:textColor="#ffffff"
-        android:background="@drawable/reg_btn_style"
         android:id="@+id/login_button"
         android:layout_width="136dp"
         android:layout_height="wrap_content"
-        android:text="Button"
+        android:background="@drawable/reg_btn_style"
+        android:text="Log in"
+        android:textColor="#ffffff"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
